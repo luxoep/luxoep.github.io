@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7457],{6045:s=>{s.exports=JSON.parse('{"title":"Basics","slug":"/category/basics","permalink":"/docs/category/basics","navigation":{"previous":{"title":"Intro","permalink":"/docs/intro"},"next":{"title":"\u811a\u672c\u8bed\u8a00 - JavaScript","permalink":"/docs/basics/JavaScriptFunction"}}}')}}]);

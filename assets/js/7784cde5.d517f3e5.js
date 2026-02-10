@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6847],{1009:s=>{s.exports=JSON.parse('{"label":"C#","permalink":"/docs/tags/c","allTagsPath":"/docs/tags","count":1,"items":[{"id":"basics/CSharpLearn","title":"\u9762\u5411\u5bf9\u8c61\u7f16\u7a0b(OOP) - C#","description":"DLC","permalink":"/docs/basics/CSharpFunction"}],"unlisted":false}')}}]);
